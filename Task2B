@@ -1,2 +1,4 @@
 read Age
 if Age>=18 and <=25  print "10% Discount is given"
+if Age>=26 and <=30  print "15% Discount is given"
+if Age>=31           print "20% Discount is given"

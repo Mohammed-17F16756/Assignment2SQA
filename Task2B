@@ -1,2 +1,4 @@
 read Age
 if Age>=18 and <=25  print "10% Discount is given"
+read Name
+print "Your Name is" + Name
